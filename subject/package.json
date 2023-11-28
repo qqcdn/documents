@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "amazeui-touch": "^1.0.0",
-    "antd-mobile": "^2.0.0",
+    "antd-mobile": "^5.0.0",
     "autoprefixer": "^6.7.7",
     "babel-core": "^6.7.6",
     "babel-eslint": "^6.0.2",
@@ -45,7 +45,7 @@
     "webpack-dev-server": "^1.16.5"
   },
   "dependencies": {
-    "antd-mobile": "^2.0.0",
+    "antd-mobile": "^5.0.0",
     "classnames": "^2.2.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
